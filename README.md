@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Marco. I'm a Student at 42 school, São Paulo!
+
+- 🔭 I’m currently working on push_swap
+- 🌱 I’m currently learning C programming language
+- 📫 How to reach me: maraurel@student.42sp.org.br
 
 <!--
 **marco-kraemer/marco-kraemer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
